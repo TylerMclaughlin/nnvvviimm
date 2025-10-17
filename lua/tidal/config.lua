@@ -32,7 +32,7 @@ local defaults = {
             port = 3335,
           },
           custom = {},
-          global = { baseName = "CodeHighlight", style = { bg = "#7eaefc", foreground = "#000000" } },
+          global = { baseName = "CodeHighlight", style = { bg = "#ffff00", foreground = "#000000" } },
         },
         events = {
           osc = {
